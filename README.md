@@ -7,14 +7,26 @@ hakkında daha iyi bilgiler edinmektir.
 Proje bilgileri kullanışı aşağıdaki gibidir.
 
 
-ROBOT PROJESİ
-Projede farklı türdeki robotların hareket etme, yük taşıma özellikleri kullanılarak verilecek problemlerin çözümü istenmektedir.
-Amaç: Proje gerçekleştirimi ile beraber öğrencilerin nesneye yönelik programlama yapısını anlaması ve çözüm sağlayabilmesi amaçlamaktadır.
-Programlama Dili: Proje C++ veya Java dili kullanılarak gerçekleştirilecektir. 
+####ROBOT PROJESİ
 
-	•	Problem Tanımı
 
-Projede sizden istenen, her bir robot türü için ayrı ayrı sınıf oluşturmak yerine sistem yönetilebilirliğini sadeleştiren bir uygulama yazmanız.  Şekil 1 projede ele alınan robot sınıflarını göstermektedir.
+
+
+
+
+
+
+
+
+![umldiagram](https://user-images.githubusercontent.com/34859799/50059861-67887480-019d-11e9-8e7f-dea439a2363b.jpeg)
+
+
+
+
+
+
+
+
 	
 Şekil 1. Oluşturulması İstenen Robot Sınıfları
 
