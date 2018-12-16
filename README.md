@@ -7,7 +7,6 @@ hakkında daha iyi bilgiler edinmektir.
 Proje bilgileri kullanışı aşağıdaki gibidir.
 
 
-####ROBOT PROJESİ####
 
 
 
